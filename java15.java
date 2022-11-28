@@ -26,6 +26,6 @@ public class java15 {
             case 10: System.out.println("At"); break;
             case 11: System.out.println("Koyun"); break;
         }
-
+        input.close();
     }
 }
